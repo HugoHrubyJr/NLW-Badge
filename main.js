@@ -7,7 +7,7 @@ const linksSocialMedia = {
   youtube: 'cs50',
   facebook: 'hugo.hrubyjunior',
   instagram: 'hugohrubyjr',
-  twitter: 'chessbrah'
+  twitter: 'HrubyHugo'
 }
 //showME(links.github)
 
